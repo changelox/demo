@@ -2,7 +2,7 @@
 This repo is free and meant to play with to experience the usage of changelox.com
 
 Just try this
-1. Clone this repo
-   `git clone git@github.com:changelox/demo.git`
+1. Fork this repo
 2. Create a pull request
-3. ... tbc :-)
+3. Your pull request will turn red
+4. ... tbc :-)
