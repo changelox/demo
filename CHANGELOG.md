@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.1]
+## [0.2.0]
+
+#### added
+
+-   testing one time execution
+    this is a test for one time execution
 
 #### fixed
 
