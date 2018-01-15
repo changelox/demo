@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
 -   Benny testing sidekiq
     we added background workers and are just checking if they work correctly
 
-
+Working on the changelog myself!
 
 
 
