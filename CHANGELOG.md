@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file.
 
 
 
-
+Changed manually!
 
 powered by [changelox](https://changelox.com)
 
