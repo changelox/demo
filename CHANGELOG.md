@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 #### added
 
 -   this is a test for one time execution
+-   added a demo file to show changelox in action
 
 #### changed
 
