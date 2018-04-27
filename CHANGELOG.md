@@ -2,17 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.2.0]
+## [Unreleased]
 
 #### added
 
--   testing one time execution
-    this is a test for one time execution
+-   this is a test for one time execution
+
+#### changed
+
+-   README fixes.
+
+#### removed
+
+-   removed unecessary files to keep the project clean.
 
 #### fixed
 
--   Benny testing sidekiq
-    we added background workers and are just checking if they work correctly
+-   we added background workers and are just checking if they work correctly
 
 
 
